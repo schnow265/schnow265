@@ -1,7 +1,7 @@
 # schnow265 💻
 
 ## Overview
-Wannabe Dev and Jr. Jr. Jr. Mod dev
+Wannabe Dev and _Jr. Jr. Jr._ Mod dev
 
 
 ## Projects
