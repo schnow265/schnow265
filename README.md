@@ -21,3 +21,9 @@ Currently, I am working on several projects, including [Sketchbook](https://gith
 
 ##  GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=schnow265&theme=ocean-gradient&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+## My Minecraft Mods
+
+| Mod Name | Repo | Release Versions | Snapshots | Modrinth |
+| --- | --- | --- | --- | --- |
+| Sketchbook _(ah, the holy grail and my main mod)_ | https://github.com/schnow265/Sketchbook | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1838831) | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1839523) | https://modrinth.com/mod/sketchbook |
