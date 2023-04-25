@@ -9,7 +9,13 @@ I am an Austrian student with a passion for coding and a proud owner of an [ECDL
 * C++, 
 * and C#.  
 
-I started with __Java__ from Minecraft modding (mainly FabricMC), and since then, I have explored other languages and gained knowledge and skills. Some of my Skills are the knowledge __bash, sh__ and __pwsh__. I gained these because I am using currently _GNU/Linux_. What Distro am I currently using? I have it in my Bio.
+I started with __Java__ from Minecraft modding (mainly FabricMC), and since then, I have explored other languages and gained knowledge and skills. Some of my Skills are the knowledge __bash, sh__ and __pwsh__. I gained these because I am using currently _GNU/Linux_. What Distro am I currently using? 
+
+| Distro | Timeframe | Device |
+| --- | --- | --- |
+| POP-os| 03.09.2023 - 03.04.2023 | Laptop |
+| Fedora | 03.04.2023 - _now_ | Laptop |
+| SteamOS | since I got the Device | SteamDeck |
 
 Currently, I am working on several projects, including [Sketchbook](https://github.com/schnow265/Sketchbook/), a project in active development, [Order of the Titans](https://github.com/schnow265/Order-of-the-Titans), a project not in active development, and [FoodNStuff](https://github.com/schnow265/foodnstuff), a project with paused development. I am also working on [uwbt (U won't beat that)](https://github.com/schnow265/uwbt), but unfortunately, I am still looking for my backup. Additionally, I have created a __German__ [HTML+CSS CheatSheet for webpages](https://github.com/schnow265/Cheat-sheet-of-Webpages) and will continue to update it when I can.
 
