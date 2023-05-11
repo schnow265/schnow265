@@ -3,27 +3,29 @@
 ## 👋 Hi there
 
 I am an Austrian student with a passion for coding and a proud owner of an [ECDL Certificate](https://icdl.org/). I have experience with various programming languages such as:
-* Java, 
-* Python, 
-* .Net, 
-* C++, 
-* and C#.  
 
-I started with __Java__ from Minecraft modding (mainly FabricMC), and since then, I have explored other languages and gained knowledge and skills. Some of my Skills are the knowledge __bash, sh__ and __pwsh__. I gained these because I am using currently _GNU/Linux_. What Distro am I currently using? 
+* Java,
+* Python,
+* .Net,
+* C++,
+* and C#.
 
-| Distro | Timeframe | Device |
-| --- | --- | --- |
-| POP-os| 03.09.2023 - 03.04.2023 | Laptop |
-| Fedora | 03.04.2023 - _now_ | Laptop |
-| SteamOS | since I got the Device | SteamDeck |
+I started with __Java__ from Minecraft modding (mainly FabricMC), and since then, I have explored other languages and gained knowledge and skills. Some of my Skills are the knowledge __bash__, __sh__ and __pwsh__. I gained these because I am using currently _GNU/Linux_. What Distro am I currently using?
 
-Currently, I am working on several projects, including [Sketchbook](https://github.com/schnow265/Sketchbook/), a project in active development, [Order of the Titans](https://github.com/schnow265/Order-of-the-Titans), a project not in active development, and [FoodNStuff](https://github.com/schnow265/foodnstuff), a project with paused development. I am also working on [uwbt (U won't beat that)](https://github.com/schnow265/uwbt), but unfortunately, I am still looking for my backup. Additionally, I have created a __German__ [HTML + CSS CheatSheet for webpages](https://github.com/schnow265/Cheat-sheet-of-Webpages) and will continue to update it when I can. My recent Addition are the [MD Files](https://github.com/schnow265/the_md_files), where I write my opinions on Video Games, Books and Music.
+| Distro  | Timeframe               | Device    |
+| ------- | ----------------------- | --------- |
+| POP-os  | 03.09.2023 - 03.04.2023 | Laptop    |
+| Fedora  | 03.04.2023 - _now_     | Laptop    |
+| SteamOS | since I got the Device  | SteamDeck |
 
-##  GitHub Stats
+Currently, I am working on several projects, including [Sketchbook](https://github.com/schnow265/Sketchbook/), a project in active development, [Order of the Titans](https://github.com/schnow265/Order-of-the-Titans), a project not in active development, and [FoodNStuff](https://github.com/schnow265/foodnstuff), a project with paused development. I am also working on [uwbt (U won&#39;t beat that)](https://github.com/schnow265/uwbt), but unfortunately, I am still looking for my backup. Additionally, I have created a __German__ [HTML + CSS CheatSheet for webpages](https://github.com/schnow265/Cheat-sheet-of-Webpages) and will continue to update it when I can. My recent Addition to my Profile are [The MD Files](https://github.com/schnow265/the_md_files), where I write my opinions on Video Games, Books and Music.
+
+## GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=schnow265&theme=ocean-gradient&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## My Minecraft Mods
 
 | Mod Name | Repo | Releases | Snapshots | Modrinth |
 | --- | --- | --- | --- | --- |
-| Sketchbook _(ah, the holy grail and my main mod)_ | https://github.com/schnow265/Sketchbook | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1838831) | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1839523) | https://modrinth.com/mod/sketchbook |
+| Sketchbook_(ah, the holy grail and my main mod)_ | https://github.com/schnow265/Sketchbook | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1838831) | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1839523) | https://modrinth.com/mod/sketchbook |
