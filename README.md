@@ -30,4 +30,4 @@ Currently, I am working on several projects, including [Sketchbook](https://gith
 
 | Mod Name | Repo | Releases | Snapshots | Modrinth |
 | --- | --- | --- | --- | --- |
-| Sketchbook_(ah, the holy grail and my main mod)_ | https://github.com/schnow265/Sketchbook | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1838831) | [Maven Repo](https://github.com/schnow265/Sketchbook/packages/1839523) | https://modrinth.com/mod/sketchbook |
+| Sketchbook | https://github.com/schnow265/Sketchbook | [Maven](https://github.com/schnow265/Sketchbook/packages/1838831) | [Maven](https://github.com/schnow265/Sketchbook/packages/1839523) | https://modrinth.com/mod/sketchbook |
