@@ -36,11 +36,8 @@ What Distro am I currently using?
 — schnow265
 
 ---
+
 Currently, I am working on several projects, including [Sketchbook](https://github.com/schnow265/Sketchbook/), a project in active development, [Order of the Titans](https://github.com/schnow265/Order-of-the-Titans), an archived attempt to make a mod. May get a rebuild. Additionally, I have created a __German__ [HTML + CSS CheatSheet for webpages](https://github.com/schnow265/Cheat-sheet-of-Webpages) and will continue to update it when I can. My recent Addition to my Profile are [The MD Files](https://github.com/schnow265/the_md_files), where I write my opinions on Video Games, Books and Music. Need some random Python Scripts? Look no further than [random-stuff](https://github.com/schnow265/random-stuff).
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=schnow265&theme=ocean-gradient&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
