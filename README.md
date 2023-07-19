@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-I am an Austrian student with a passion for coding and a proud owner of an [ECDL Certificate](https://icdl.org/). I have experience with various programming languages such as:
+I am an Austrian developer with a passion for coding and a proud owner of an [ECDL Certificate](https://icdl.org/). I have experience with various programming languages such as:
 
 * Java,
 * Python,
