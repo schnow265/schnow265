@@ -22,12 +22,14 @@ What Distro am I currently using?
 | Fedora  | 03.04.2023 - _now_     | Laptop    |
 | SteamOS | since I got the Device  | SteamDeck |
 
-**Fedora Re-install Counter**
+Buuuut there is a problem with my Fedora Usage: I liked to break it. Once I removed the *entirety* of the pip-Folder to free up space. As a note, __dnf__, the package Manager of Fedora, is made in Python. And I couldn't just type *pip install dnf*, because it said that I need to install the package **python3-dnf** via the systems package manager. So, how often did I reinstall it?
+
+**The Fedora Re-install Counter**
 | Number | Spin | Time | Cause |
 | --- | --- | --- | --- |
 | 0 | Workstation | 03.04.2023 | - |
 | 1 | KDE Spin | - | I hate GNOME |
-| 2 | Kionite | - | KDE broke :( |
+| 2 | Kionite | - | pip - Folder |
 | 3 | KDE Spin | 15.07.2023 | I can't use rpm-ostree anymore! No tools are working! I can't even install **pip**! |
 
 
