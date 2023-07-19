@@ -18,7 +18,7 @@ What Distro am I currently using?
 
 | Distro  | Timeframe               | Device    |
 | ------- | ----------------------- | --------- |
-| POP-os  | 03.09.2023 - 03.04.2023 | Laptop    |
+| POP!_OS  | 03.09.2023 - 03.04.2023 | Laptop    |
 | Fedora  | 03.04.2023 - _now_     | Laptop    |
 | SteamOS | since I got the Device  | SteamDeck |
 
