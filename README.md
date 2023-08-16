@@ -45,6 +45,7 @@ But there is a problem with my Fedora Usage: I liked to break it. Once I removed
 |3     |KDE Spin                |15.07.2023|I can't use rpm-ostree anymore! No tools are working! I can't even install **pip**!|
 |4     |Budgie Spin             |03.08.2023|Tried Budgie Desktop once                                                          |
 |5     |KDE Spin                |06.08.2023|Knowledge made from *The Budgie Experiment*: I HATE BUDGIE! EXPLORER: CRAPPY. STRUCTURE OF SETTINGS: F-ING GNOME! |
+|6     |KDE Spin                |15.08.2023|```user schnow265 is not in sudoers file```
 
 ---
 
