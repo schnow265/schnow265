@@ -39,13 +39,14 @@ But there is a problem with my Fedora Usage: I liked to break it. Once I removed
 **The Fedora Re-install Counter**
 |Number|Version to get installed|Time      |Cause                                                                              |
 |------|------------------------|----------|-----------------------------------------------------------------------------------|
-|0     |Workstation             |03.04.2023|-                                                                                  |
+|0     |Workstation Vanilla     |03.04.2023|-                                                                                  |
 |1     |KDE Spin                |-         |I hate GNOME                                                                       |
 |2     |Kionite                 |-         |pip - Folder                                                                       |
 |3     |KDE Spin                |15.07.2023|I can't use rpm-ostree anymore! No tools are working! I can't even install **pip**!|
 |4     |Budgie Spin             |03.08.2023|Tried Budgie Desktop once                                                          |
 |5     |KDE Spin                |06.08.2023|Knowledge made from *The Budgie Experiment*: I HATE BUDGIE! EXPLORER: CRAPPY. STRUCTURE OF SETTINGS: F-ING GNOME! |
-|6     |KDE Spin                |15.08.2023|```user schnow265 is not in sudoers file```
+|6     |KDE Spin                |15.08.2023|```user schnow265 is not in sudoers file``` |
+|7     |Workstation Vanilla     |17.08.2023|Let's use GNOME                             |
 
 ---
 
