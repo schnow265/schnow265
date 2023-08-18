@@ -22,9 +22,11 @@ I started with __Java__ from Minecraft modding (*mainly FabricMC*), and since th
 | --- | --- | --- | --- |
 | Parrot OS | A little bit of HackTheBox-ing | Yeah, it's Debian. | VM |
 | wsl (Yes, I count that) | Building binaries with better tools than on Windows | It's bash. | SubSystem |
-| Fedora / RHEL | Daily Live System | Daily-Driver | Bare Metal |
+| Fedora / RHEL-based System | Daily Live System | Daily-Driver | Bare Metal |
 | Kali Linux | Advanced HTB-ing | same as ParrotOS | VM |
 | Arch Linux | Haha, Funny Number goes up | archinstall | VM |
+| Ubuntu | Let's try it | Me: "I now know Linux, but this is trash"  | VM |
+| ZorinOS | [funny Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/vm-computers) | Good performance, but still: | VM |
 
 ### What Distro am I currently using?
 
