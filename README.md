@@ -6,6 +6,7 @@ I am an Austrian developer with a passion for coding and a proud owner of an [EC
 
 * Python,
 * Java,
+* TypeScript (Angular),
 * PowerShell (Yes, it's a language - surprise, surprise),
 * bash,
 * .Net,
