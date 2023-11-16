@@ -50,6 +50,7 @@ But there is a problem with my Fedora Usage: I liked to break it. Once I removed
 |5     |KDE Spin                |06.08.2023|Knowledge made from *The Budgie Experiment*: I HATE BUDGIE! EXPLORER: CRAPPY. STRUCTURE OF SETTINGS: F-ING GNOME! |
 |6     |KDE Spin                |15.08.2023|```user schnow265 is not in sudoers file``` |
 |7     |Workstation Vanilla     |17.08.2023|Let's use GNOME                             |
+|8     |KDE Spin                |18.08.2023|KDE is best. |
 
 ---
 
