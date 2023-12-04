@@ -63,3 +63,7 @@ Currently, I am working on several projects, including [Sketchbook](https://gith
 |Mod Name  |Repo                                   |Releases                                                         |Snapshots                                                        |Modrinth                                       |
 |----------|---------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|
 |Sketchbook|https://github.com/schnow265/Sketchbook|[Maven](https://github.com/schnow265/Sketchbook/packages/1838831)|[Maven](https://github.com/schnow265/Sketchbook/packages/1839523)|[Releases](https://modrinth.com/mod/sketchbook)|
+
+
+## Best Off schnow265:
+* [The commit of the truth](https://github.com/defgsus/good-github/blob/bb63c429a820f1963881a423f6a04205ff90a166/docs/good-messages/2023/2023-04-17.md?plain=1#L3588). oh god i hated this update.
