@@ -4,6 +4,8 @@
 
 I am an Austrian developer with a passion for coding and a proud owner of an [ECDL Certificate](https://icdl.org/).
 
+![I like how much you can make with tildes and dashes.](assets/seperator.png)
+
 I have used the following Technologies and web frameworks:
 
 <div align="left">
@@ -31,5 +33,7 @@ I have used the following Technologies and web frameworks:
 </div>
 
 ###
+
+![What is your favourite author? Mine is Stephen King.](assets/seperator.png)
 
 I also like to hop into Affinity some time and make some deigns and props for my readme.
