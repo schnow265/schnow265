@@ -2,4 +2,4 @@
 
 Just an Austrian who has access to a Linux device.
 
-[Feel free to send me a mail.](mailto:thesnowbox@icloud.com)
+[Feel free to send me mail.](mailto:thesnowbox@icloud.com)
